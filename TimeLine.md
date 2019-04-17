@@ -8,7 +8,7 @@
 
 #### article
 
-[Windows10 自带的虚拟机功能，让你同时拥有几台电脑](https://zhuanlan.zhihu.com/p/50982679) 利用 window10 自带的 Hyper-V
+[Hyper-V](https://zhuanlan.zhihu.com/p/50982679) Windows10 自带的虚拟机功能，让你同时拥有几台电脑
 
 ## 2019 4 17
 
