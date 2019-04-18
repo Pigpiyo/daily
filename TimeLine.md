@@ -47,3 +47,13 @@
 [在线图片编辑](https://www.iloveimg.com/zh-cn) 好用！
 
 [在线抠图](https://www.remove.bg/) 头发丝也能抠
+
+ ## 2019 4 18
+ 
+ #### website
+ 
+ [免费图标](https://icons8.cn/) 可以很方便的直接在ppt中无缝插入
+ 
+ [illustrio](https://illustrio.com) 图标库，支持各种风格，包括抖音故障风格
+ 
+ 
