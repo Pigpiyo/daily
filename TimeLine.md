@@ -63,3 +63,7 @@
  [下载网页所有图片](https://imagecyborg.com/) 只需要粘贴网页链接，即会下载该网页所有图片
  
  [Tech Ideas](https://bwasti.com/techideas) 让程序员不再缺乏idea
+ 
+ ## 2019 4 29
+ 
+ [语音机器人项目](https://github.com/wzpan/wukong-robot) wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目
