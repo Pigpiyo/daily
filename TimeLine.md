@@ -67,3 +67,15 @@
  ## 2019 4 29
  
  [语音机器人项目](https://github.com/wzpan/wukong-robot) wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目
+ 
+ ## 2019 8 26
+ 
+ [NASA Image](https://images.nasa.gov/) 太空类的图片和视频
+ 
+ [Beautiful Free Images](https://unsplash.com/) 图片素材库
+ 
+ [58000 Free Icons](https://icons8.com/) 图标库
+ 
+ [MagicaVoxel](https://ephtracy.github.io/) 3D像素建模软件
+ 
+
